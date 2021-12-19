@@ -1,11 +1,12 @@
 ## This is b1acksoil！
 > 摸鱼中...
 
-[![Mail](https://img.shields.io/badge/-bs@blacksoil.top-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bs@blacksoil.top)
-[![bilibili](https://img.shields.io/badge/-b1acksoil-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/33268404)
+[![Mail](https://img.shields.io/badge/Mail-bs@blacksoil.top-grey?labelColor=E95A4E&color=CE4F45&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bs@blacksoil.top)
+[![bilibili](https://img.shields.io/badge/bilibili-b1acksoil-grey?labelColor=00A1D6&color=008EBD&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/33268404)
 
 ![Learning TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Learning Vue](https://img.shields.io/badge/Learning-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Coding With Raspberry Pi](https://img.shields.io/badge/Coding_With-Raspberry_Pi_4B-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ### Stats
 
