@@ -9,5 +9,5 @@
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1acksoil&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1acksoil&layout=compact&hide=html,css,scss&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1acksoil&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1acksoil&layout=compact&hide=html,css,scss&theme=react&hide_border=true)
