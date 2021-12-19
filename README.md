@@ -1,7 +1,7 @@
 ## This is b1acksoil！
 > 摸鱼中...
 
-[![Mail](https://img.shields.io/badge/-bs@blacksoil.top-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bs@blacksoil.top)
+[![Mail](https://img.shields.io/badge/-bs@blacksoil.top-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bs@blacksoil.top)
 [![bilibili](https://img.shields.io/badge/-b1acksoil-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/33268404)
 
 ![Learning TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
