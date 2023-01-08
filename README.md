@@ -25,6 +25,3 @@ public static async Task IntroduceMyself()
 ### Currently working on...
 - [Flandre](https://github.com/FlandreDevs/Flandre) - 跨平台，低耦合的聊天机器人框架，基于 .NET 6。  
 ![Language](https://shields.io/badge/language-C%23-239120) ![Stars](https://shields.io/github/stars/FlandreDevs/Flandre) ![Last Commit](https://shields.io/github/last-commit/FlandreDevs/Flandre) ![NuGet Version](https://shields.io/nuget/v/Flandre.Core) ![NuGet Downloads](https://shields.io/nuget/dt/Flandre.Core)
-
-- [YukiChan](https://github.com/b1acksoil/YukiChan) - 暮雪酱！QQ 机器人~  
-![Language](https://shields.io/badge/language-C%23-239120) ![Stars](https://shields.io/github/stars/b1acksoil/YukiChan) ![Last Commit](https://shields.io/github/last-commit/b1acksoil/YukiChan) 
