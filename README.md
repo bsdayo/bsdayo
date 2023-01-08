@@ -13,7 +13,7 @@ public static async Task IntroduceMyself()
 [![Mail](https://img.shields.io/badge/Mail-bs@sorabs.cc-grey?labelColor=E95A4E&color=CE4F45&style=flat&logo=gmail&logoColor=white)](mailto:bs@sorabs.cc)
 [![bilibili](https://img.shields.io/badge/bilibili-b1acksoil-grey?labelColor=00A1D6&color=008EBD&style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/33268404)
 
-[![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg?style=flat)](https://wakatime.com/@b1acksoil) `// since May 15, 2022, not fully recorded`
+[![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg?style=flat)](https://wakatime.com/@b1acksoil)
 
 ![Learning C#](https://img.shields.io/badge/Learning-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Learning Rust](https://img.shields.io/badge/Learning-Rust-dea584?style=flat&logo=rust&logoColor=white)
