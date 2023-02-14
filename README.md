@@ -23,10 +23,10 @@ public static async Task IntroduceMyself()
 
 
 ### Currently working on...
-- [Flandre](https://github.com/FlandreDevs/Flandre) - Cross-platform, modern chat bot framework，based on .NET 6.  
+- [Flandre](https://github.com/FlandreDevs/Flandre) - Cross-platform, modern chat bot framework, based on .NET 6.  
 ![Language](https://shields.io/badge/language-C%23-239120) ![Stars](https://shields.io/github/stars/FlandreDevs/Flandre) ![Last Commit](https://shields.io/github/last-commit/FlandreDevs/Flandre) ![NuGet Version](https://shields.io/nuget/v/Flandre.Core) ![NuGet Downloads](https://shields.io/nuget/dt/Flandre.Core)
 
-- [YukiChan](https://github.com/b1acksoil/YukiChan) - Cross-platform chat bot「暮雪酱」，mainly provides score querying service for Arcaea players.  
+- [YukiChan](https://github.com/b1acksoil/YukiChan) - Cross-platform chat bot「暮雪酱」, mainly provides score querying service for Arcaea players.  
 ![Language](https://shields.io/badge/language-C%23-239120) ![Stars](https://shields.io/github/stars/b1acksoil/YukiChan) ![Last Commit](https://shields.io/github/last-commit/b1acksoil/YukiChan)
 
 - [BingChat](https://github.com/b1acksoil/BingChat) - .NET API wrapper, and an amazing interactive CLI for Microsoft's new AI-powered Bing Chat.
