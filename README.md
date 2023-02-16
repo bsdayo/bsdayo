@@ -7,11 +7,17 @@
 ![Coding With MiPad 2](https://img.shields.io/badge/Coding_With-MiPad_2-FF6900?style=flat&logo=xiaomi&logoColor=white)
 
 ### Tech Stack
+<!-- Platforms & Languages -->
 ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-![WPF](https://img.shields.io/badge/WPF-0078d4?logo=windows11)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4fc08d?logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
+
+<!-- Frameworks -->
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078d4?logo=.net)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-0078d4?logo=.net)
+![WPF](https://img.shields.io/badge/WPF-0078d4?logo=windows11)
+![Vue](https://img.shields.io/badge/Vue.js-4fc08d?logo=vuedotjs&logoColor=white)
 
 ### Projects
 
