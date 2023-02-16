@@ -23,5 +23,5 @@
 | [SlstGen](https://github.com/NekoSpace/SlstGen) | Full-featured Arcaea songlist generator with Fluent Design | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) ![WPF](https://img.shields.io/badge/WPF-0078d4?logo=windows11) |
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1acksoil&theme=react&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1acksoil&layout=compact&hide=html,css,scss&theme=react&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=b1acksoil&theme=react&hide_border=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1acksoil&layout=compact&hide=html,css,scss&theme=react&hide_border=true" width="300" />
