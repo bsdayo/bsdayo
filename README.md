@@ -24,12 +24,16 @@
 
 ### Projects
 
+- **Bold** - Actively working on
+- Regular - Under regular development
+- _Italic_ - Maintenance only
+
 | Project | Description | Tech |
 | ------- | ----------- | ------------ |
-| [Flandre](https://github.com/FlandreDevs/Flandre) | Cross-platform, modern chat bot framework. | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) |
+| **[Flandre](https://github.com/FlandreDevs/Flandre)** | Cross-platform, modern chat bot framework. | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) |
 | [YukiChan](https://github.com/b1acksoil/YukiChan) | Chat bot「暮雪酱」, mainly provides score querying service for Arcaea players | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) ![EF Core](https://img.shields.io/badge/EF%20Core-0078d4?logo=.net) |
-| [BingChat](https://github.com/b1acksoil/BingChat) | .NET API wrapper, and an amazing interactive CLI for Microsoft's AI-powered Bing Chat | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) |
-| [SlstGen](https://github.com/NekoSpace/SlstGen) | Full-featured Arcaea songlist generator with Fluent Design | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) ![WPF](https://img.shields.io/badge/WPF-0078d4?logo=windows) |
+| _[BingChat](https://github.com/b1acksoil/BingChat)_ | .NET API wrapper, and an amazing interactive CLI for Microsoft's AI-powered Bing Chat | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) |
+| _[SlstGen](https://github.com/NekoSpace/SlstGen)_ | Full-featured Arcaea songlist generator with Fluent Design | ![.NET](https://img.shields.io/badge/.NET-512bd4?logo=.net) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp) ![WPF](https://img.shields.io/badge/WPF-0078d4?logo=windows) |
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=b1acksoil&theme=react&hide_border=true" width="300" />
