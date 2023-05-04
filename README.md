@@ -1,7 +1,6 @@
 ## Ciallo～(∠・ω< )⌒☆
 
-[![Blog](https://img.shields.io/badge/Blog-sorabs.cc-white?labelColor=ff80ab&color=f06292&style=for-the-badge&logo=hugo&logoColor=white)](https://sorabs.cc/)
-[![bilibili](https://img.shields.io/badge/bilibili-bsdayo-white?labelColor=00A1D6&color=008EBD&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/33268404)
+[![Blog](https://img.shields.io/badge/Blog-sorabs.cc-white?labelColor=42b883&color=3ba576&style=for-the-badge&logo=vite&logoColor=white)](https://sorabs.cc/)
 
 [![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg?style=flat)](https://wakatime.com/@bsdayo)
 ![Coding With MiPad 2](https://img.shields.io/badge/Coding_With-MiPad_2-FF6900?style=flat&logo=xiaomi&logoColor=white)
