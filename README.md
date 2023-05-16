@@ -47,6 +47,6 @@
 
 ---
 
-![Moe Counter](https://count.getloli.com/get/@bsdayo?theme=gelbooru)
+![Moe Counter](https://count.getloli.com/get/@bsdayo?theme=rule34)
 
 </div>
