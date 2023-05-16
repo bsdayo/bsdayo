@@ -41,8 +41,8 @@
 
 ### Alternative ways to find me!
 
-[![Mail](https://img.shields.io/badge/Mail-dev@sorabs.cc-white?labelColor=0078d4&color=006abb&style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:dev@sorabs.cc)
 [![Blog](https://img.shields.io/badge/Blog-sorabs.cc-white?labelColor=42b883&color=3ba576&style=for-the-badge&logo=vite&logoColor=white)](https://sorabs.cc/)
+[![Mail](https://img.shields.io/badge/Mail-dev@sorabs.cc-white?labelColor=0078d4&color=006abb&style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:dev@sorabs.cc)
 [![Steam](https://img.shields.io/badge/Steam-bsdayo-white?labelColor=282828&color=232323&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bsdayo/)
 
 ---
