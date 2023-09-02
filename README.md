@@ -4,7 +4,7 @@
 
 ## この `bs` だよ！
 
-[![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg)](https://wakatime.com/@bsdayo)
+[![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg?style=flat-square)](https://wakatime.com/@bsdayo)
 
 <picture>
   <source
