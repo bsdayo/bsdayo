@@ -8,16 +8,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bsdayo&theme=github_dark&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=bsdayo&theme=github_dark&hide_border=true&rank_icon=percentile"
     media="(prefers-color-scheme: dark)"
     height="180px"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bsdayo&theme=github_light&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=bsdayo&theme=github_light&hide_border=true&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="180px"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=bsdayo&theme=github_light&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bsdayo&theme=github_light&hide_border=true&rank_icon=percentile" height="180px" />
 </picture>
 <picture>
   <source
