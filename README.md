@@ -2,7 +2,7 @@
 
 ![Banner](https://i0.hdslb.com/bfs/archive/34319439f88f5c0794ee6985cd535fcb40ed28e0.png@3840w_360h_1c_90q.webp)
 
-## この `bs` だよ！
+## この `bs` だよ !
 
 [![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg?style=flat-square)](https://wakatime.com/@bsdayo)
 
