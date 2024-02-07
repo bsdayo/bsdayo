@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](https://i0.hdslb.com/bfs/archive/34319439f88f5c0794ee6985cd535fcb40ed28e0.png@3840w_360h_1c_90q.webp)
-
 ## Hi, I'm B/Syn, a.k.a. bs,
 
 A Full Stack `<Developer/>`
