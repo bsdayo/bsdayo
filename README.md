@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm B/Syn, a.k.a. bs,
+## Hi, I'm `bsdayo`, a.k.a. bs,
 
 A Full Stack `<Developer/>`
 
