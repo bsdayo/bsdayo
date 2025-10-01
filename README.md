@@ -40,7 +40,7 @@ A Full Stack `<Developer/>`
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsdayo&layout=compact&theme=github_light&hide_border=true" height="180px" />
 </picture>
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=bsdayo&theme=github-dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
@@ -50,7 +50,7 @@ A Full Stack `<Developer/>`
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsdayo&theme=github-light&hide_border=true" />
-</picture>
+</picture> -->
 
 ---
 
