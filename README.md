@@ -4,6 +4,8 @@
 
 A Full Stack `<Developer/>`
 
+_Currently doing system development (storage & network)_
+
 [![WakaTime](https://wakatime.com/badge/user/b1ea68ff-35ad-48d6-aa5a-c0f1dfad4018.svg?style=flat-square)](https://wakatime.com/@bsdayo)
 
 ![C OK](https://img.shields.io/badge/C-OK-7b7b7b?style=flat-square&labelColor=555555)
